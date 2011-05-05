@@ -1,0 +1,18 @@
+We're going to use GIT for the project,
+
+learn to generate your keys, it's the same as linux: ssh-keygen 
+(or refer to http://help.github.com/win-set-up-git/)
+
+
+We're going to be using an open graphics library:
+
+Choices I have in mind are:
+	- http://geosoft.no/graphics/
+	- http://ogre4j.sourceforge.net/
+        - http://java.net/projects/jogl/
+
+If you want to add on, change this readme ;)
+
+
+
+
